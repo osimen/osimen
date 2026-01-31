@@ -1,8 +1,8 @@
 - 👋 Hi, I’m osimen osaretin
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Cybersecurity 
+- 🌱 I’m currently learning Devops 
 - 💞️ I’m looking to collaborate with individuals, companies and organization
-- 😊 I'm open to entry level Cybersecurity role
+- 😊 I'm open to entry level Devops role
 - 📫 How to reach me osimenaiyeosa@gmail.com
 
  The security tools I use for testing are 
